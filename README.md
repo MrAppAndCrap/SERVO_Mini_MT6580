@@ -5,10 +5,11 @@ I suggest you back up your OG boot image before using the patched (root) one pro
 
 Install: 
 MTKtools (https://github.com/MrAppAndCrap/mtkclient)
-Install Magisk apk on your phone 
+Install Magisk apk on your phone. Magisk apk releases here (https://github.com/topjohnwu/Magisk/releases)
 
 Download the stock boot image files or backup your own. 
 Download the pre-patched (rooted image) or patch your own boot.img.
+Phone release files https://github.com/MrAppAndCrap/SERVO_Mini_MT6580/releases/tag/image
 
 
 **General Specs And Hardware (generic Servo mini 5000):**
