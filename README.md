@@ -1,7 +1,7 @@
 # SERVO_Mini_MT6580
 Everything you need to root your Servo Mini (5000) 
 
-I suggest you back up your OG boot image before using the patched (root) one provided.
+I suggest you back up your OG boot image before using the patched (rooted) one provided.
 
 Install: 
 MTKtools (https://github.com/MrAppAndCrap/mtkclient)  
