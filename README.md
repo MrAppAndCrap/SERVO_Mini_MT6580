@@ -1,6 +1,9 @@
 # SERVO_Mini_MT6580
 Everything you need to root your Servo Mini (5000) 
 
+Install: 
+MTKtools (https://github.com/MrAppAndCrap/mtkclient)
+
 General Specs And Hardware (generic Servo mini 5000):
 
 Device Info 3.3.9.0
