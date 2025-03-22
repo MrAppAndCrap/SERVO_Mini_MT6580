@@ -19,7 +19,8 @@ Flash the rooted(patched) file to your phone using mtktools.
 **Detailed guide** https://github.com/MrAppAndCrap/SERVO_Mini_MT6580/wiki#-rooting-mediatek-mt6580-on-linux-ubuntu
 
 
-/**General Specs And Hardware (generic Servo mini 5000):**/
+
+***General Specs And Hardware (generic Servo mini 5000):***
 
 Device Info 3.3.9.0
 Date Created 2025-03-20 21:48:37
