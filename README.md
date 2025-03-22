@@ -10,7 +10,7 @@ Magisk
 Download the stock boot image files or backup your own. 
 Download the patched (rooted image using Magisk)
 
-General Specs And Hardware (generic Servo mini 5000):
+**General Specs And Hardware (generic Servo mini 5000):**
 
 Device Info 3.3.9.0
 Date Created 2025-03-20 21:48:37
